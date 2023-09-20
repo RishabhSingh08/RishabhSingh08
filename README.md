@@ -13,7 +13,7 @@ I'm a high school student with a passion for web development and a focus on fron
 - 💻 Web Development
 - 🌐 Frontend Development
 - 🖌️ HTML, CSS, JavaScript
-- 🚀 Vue.js
+- 🚀 Svelte.js
 - 🎮 C#
 - 🐍 Python
 
