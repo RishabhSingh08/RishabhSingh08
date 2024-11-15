@@ -1,13 +1,12 @@
 # Hi there, I'm Rishabh Singh! 👋
 16 | 11th Grader | Dallas Texas
 
-I'm a web developer from Dallas, Texas, with over 2 years of experience. I focus on creating user-friendly web experiences and am dedicated to continuous learning and growth.
+I'm a developer from Dallas, Texas, and have been learning for 2 years. I focus on creating user-friendly web experiences and am dedicated to continuous learning and growth.
 
 ## About Me
 
-- **Experience:** 2+ years in web development.
-- **Specialization:** Frontend technologies, primarily React.js.
-- **Current Focus:** Expanding knowledge in Python and Node.js.
+- **Technologies:** React.js | Python | HTML/CSS/JS | Java
+- **Current Focus:** Expanding knowledge in Fullstack development.
 - **Goals:** Seeking internships, jobs, or exciting projects to apply my skills.
 
 ## Experience
@@ -15,11 +14,13 @@ I'm a web developer from Dallas, Texas, with over 2 years of experience. I focus
 - 🏆 Participated in *Battle of the Brains* hackathons at UT Dallas.
 - 🛠️ Competed in *HackTAMS*, developing innovative solutions.
 - 🎓 Founder of Jasper High School Computing Club: Taught Python and led hackathon teams.
+- ♟️ Volunteer at DFW Royal Knights [DFW Royal Knights (work in progress)](http://dfwroyalknights.org/)
+
 
 ## Projects
 
 - 🔗 [BuyItBuddy](https://devpost.com/software/buyitbuddy)
-- 🔗 [DFW Royal Knights (work in progress)](http://dfwroyalknights.org/)
+- 🔗 [Decomplexify](https://github.com/RishabhSingh08/decomplexify)
 
 ## Get in Touch
 
