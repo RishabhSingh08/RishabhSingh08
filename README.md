@@ -4,16 +4,23 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishabhsingh08&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsingh08" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhsingh08" alt="rishabhsingh08" /></a> </p>
+<ul align="center">
+  <li>
+    🔭 I’m currently working on [DFW Royal Knights](https://dfwroyalknights.org/)
+  </li>
+    <li>
+      🌱 I’m currently learning **React, Express, Databases**  </li>
+    <li>
+      💬 Ask me about **Javascript, Python, Svelte**  </li>
+    <li>
+    📫 How to reach me **Rishabh.home.1@gmail.com**
+  </li>
+    <li>
+    📍 I am a **16 year old based in Dallas, Texas**
+  </li>
+</ul>
 
-- 🔭 I’m currently working on [DFW Royal Knights](https://dfwroyalknights.org/)
 
-- 🌱 I’m currently learning **React, Express, Databases**
-
-- 💬 Ask me about **Javascript, Python, Svelte**
-
-- 📫 How to reach me **Rishabh.home.1@gmail.com**
-
-- 📍 I am a **16 year old based in Dallas, Texas**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
