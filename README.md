@@ -12,7 +12,8 @@ Hi! I'm a 16-year-old aspiring web developer passionate about building innovativ
 
 *   🌍  I'm based in Dallas, Texas
 *   ✉️  You can contact me at [Rishabh.home.1@gmail.com](mailto:Rishabh.home.1@gmail.com)
-*   🧠  I'm learning Fullstack Technologies<a href="https://www.github.com/RishabhSingh08" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Fullstack Technologies
+<a href="https://www.github.com/RishabhSingh08" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/RishabhSingh08?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills 
 <p align="left">
