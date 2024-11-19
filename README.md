@@ -11,15 +11,13 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [DFW Royal Knights](https://dfwroyalknights.org/)
-
-- 🌱 I’m currently learning **React, Express, Databases**
-
-- 💬 Ask me about **Javascript, Python, Svelte**
-
-- 📫 How to reach me **Rishabh.home.1@gmail.com**
-
-- 📍 I am a **16 year old based in Dallas, Texas**
+<p align="center">
+  🔭 I’m currently working on <a href="https://dfwroyalknights.org/">DFW Royal Knights</a><br>
+  🌱 I’m currently learning <b>React, Express, Databases</b><br>
+  💬 Ask me about <b>Javascript, Python, Svelte</b><br>
+  📫 How to reach me <b>Rishabh.home.1@gmail.com</b><br>
+  📍 I am a <b>16 year old based in Dallas, Texas</b>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
