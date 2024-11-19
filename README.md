@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  👋 Hi, I'm Rishabh Singh! I'm a 16-year-old aspiring web developer passionate about building innovative projects. I'm currently learning frontend technologies like HTML, CSS, JavaScript, React, and Tailwind, while also exploring full-stack development. With 3+ years of coding experience, I enjoy creating solutions that combine creativity and functionality. Let's collaborate and build something amazing!<br><br>
+  📖 Hi, I'm Rishabh Singh! I'm a 16-year-old aspiring web developer passionate about building innovative projects. I'm currently learning frontend technologies like HTML, CSS, JavaScript, React, and Tailwind, while also exploring full-stack development. With 3+ years of coding experience, I enjoy creating solutions that combine creativity and functionality. Let's collaborate and build something amazing!<br><br>
   🔭 I’m currently working on <a href="https://dfwroyalknights.org/">DFW Royal Knights</a><br>
   🌱 I’m currently learning <b>React, Express, Databases</b><br>
   💬 Ask me about <b>Javascript, Python, Svelte</b><br>
