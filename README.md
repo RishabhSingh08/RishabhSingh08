@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Rishabh.home.1@gmail.com**
 
--  📍I am a **16 year old based in Dallas, Texas**
+- 📍 I am a **16 year old based in Dallas, Texas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
