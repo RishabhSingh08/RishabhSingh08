@@ -9,12 +9,11 @@
   </a> 
 </p>
 <p align="center">
-  📖 Hi, I'm Rishabh Singh! I'm a 16-year-old aspiring web developer passionate about building innovative projects. I'm currently learning frontend technologies like HTML, CSS, JavaScript, React, and Tailwind, while also exploring full-stack development. With 3+ years of coding experience, I enjoy creating solutions that combine creativity and functionality. Let's collaborate and build something amazing!<br><br>
-  🔭 I’m currently working on <a href="https://dfwroyalknights.org/">DFW Royal Knights</a><br>
-  🌱 I’m currently learning <b>React, Express, Databases</b><br>
-  💬 Ask me about <b>Javascript, Python, Svelte</b><br>
-  📫 How to reach me <b>Rishabh.home.1@gmail.com</b><br>
-  📍 I am a <b>16 year old based in Dallas, Texas</b>
+  📖 Hi, I'm Rishabh Singh<br><br>
+  🔭 I’m currently working on <a href="https://undefinedrobotics.org/">Undefined Robotics</a><br>
+  🌱 I use <b>SvelteJS, TailwindCSS, Python</b><br>
+  📫 Reach me at <b>Rishabh.home.1@gmail.com</b><br>
+  📍 I am a <b>17 year old based in Plano, Texas</b>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
