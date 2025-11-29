@@ -9,11 +9,19 @@
   </a> 
 </p>
 <p align="center">
-  📖 Hi, I'm Rishabh Singh<br><br>
+  
   🔭 I’m currently working on <a href="https://undefinedrobotics.org/">Undefined Robotics</a><br>
   🌱 I use <b>SvelteJS, TailwindCSS, Python</b><br>
   📫 Reach me at <b>Rishabh.home.1@gmail.com</b><br>
   📍 I am a <b>17 year old based in Plano, Texas</b>
+  <br><br>
+  <ul>
+    <li>Undefined Robotics</li>
+    <li>Solace Global</li>
+    <li>GRDINDTech</li>
+    <li>Global Vision</li>
+    <li>DFW Royal Knights</li>
+  </ul>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
