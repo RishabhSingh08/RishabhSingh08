@@ -14,9 +14,9 @@
   🌱 I use <b>SvelteJS, TailwindCSS, Python</b><br>
   📫 Reach me at <b>Rishabh.home.1@gmail.com</b><br>
   📍 I am a <b>17 year old based in Plano, Texas</b>
+  <br><br>
 
   <h2>⭐️ Contributions</h2>
-  <br><br>
   <ul>
     <li>Undefined Robotics</li>
     <li>Solace Global</li>
